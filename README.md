@@ -1,9 +1,15 @@
  Name - VIDHI KOHLI 
+ 
 Company - CODETECH IT SOLUTION 
+
 ID - CT08DS1780
+
 Domain : Web Development 
+
 Duration : 10th June 2024 - 10th July 2024
+
 Mentor : SRAVANI GOUNI 
+
 
  Overview of the project  
  
